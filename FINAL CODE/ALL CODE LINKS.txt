@@ -1,0 +1,9 @@
+1. COSINE_SIMILARITY_0_1_HUMAN(Jadukor).ipynb - https://colab.research.google.com/drive/1vIznDwQS_uZAYR7CkzryhFL6U-Jt4dW8?usp=sharing
+
+2. COSINE_SIMILARITY_0_1_HUMAN(SHAPURE).ipynb - https://colab.research.google.com/drive/1pRp9nnqNJXVJppit_5DFfZecSdephqla?usp=sharing
+
+3. COSINE_SIMILARITY_0_1_HUMAN(POSTMASTER).ipynb - https://colab.research.google.com/drive/1ZkoM_gUU8uiXhBsfPXSD244t1qe-OsPq?usp=sharing
+
+4. COSINE_SIMILARITY_0_1_HUMAN(CHELEDHORA).ipynb - https://colab.research.google.com/drive/1W7Mo7yBNmoULZPR4n-drOthli3ml_zEc?usp=sharing
+
+5. COSINE_SIMILARITY_0_1_AI(CHELEDHORA).ipynb - https://colab.research.google.com/drive/1mI-9yjDAn8LZmxszLtSohxBnM_G6kuK2?usp=sharing
